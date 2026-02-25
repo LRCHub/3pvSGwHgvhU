@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "I'm Ready",
+  "base_artist": "Jaden",
+  "createdAt": "2026-02-25T04:36:47.174019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Ready",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/01_I'm_Ready_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Ready",
+      "artist": "Nav",
+      "has_synced": true,
+      "path": "select/02_I'm_Ready_Nav.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Ready",
+      "artist": "NAV",
+      "has_synced": true,
+      "path": "select/03_I'm_Ready_NAV.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Ready",
+      "artist": "Tevin Campbell",
+      "has_synced": true,
+      "path": "select/04_I'm_Ready_Tevin_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forever I'm Ready",
+      "artist": "Jeremih",
+      "has_synced": true,
+      "path": "select/05_Forever_I'm_Ready_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Ready",
+      "artist": "Tricky",
+      "has_synced": true,
+      "path": "select/06_I'm_Ready_Tricky.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lloyd, I'm Ready To Be Heartbroken",
+      "artist": "Camera Obscura",
+      "has_synced": true,
+      "path": "select/07_Lloyd,_I'm_Ready_To_Be_Heartbroken_Camera_Obscura.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Ready",
+      "artist": "Kano",
+      "has_synced": false,
+      "path": "select/08_I'm_Ready_Kano.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Ready",
+      "artist": "Kano",
+      "has_synced": true,
+      "path": "select/09_I'm_Ready_Kano.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm Ready",
+      "artist": "Tracy Chapman",
+      "has_synced": true,
+      "path": "select/10_I'm_Ready_Tracy_Chapman.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm Ready",
+      "artist": "Royal Trux",
+      "has_synced": false,
+      "path": "select/11_I'm_Ready_Royal_Trux.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm Ready",
+      "artist": "Snow Patrol",
+      "has_synced": false,
+      "path": "select/12_I'm_Ready_Snow_Patrol.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Un-thinkable (I'm Ready)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/13_Un-thinkable_(I'm_Ready)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Un‐Thinkable (I’m Ready)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/14_Un‐Thinkable_(I’m_Ready)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Next I'm Ready",
+      "artist": "Vitalic",
+      "has_synced": true,
+      "path": "select/15_Next_I'm_Ready_Vitalic.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'm Ready for Love",
+      "artist": "Martha Reeves and The Vandellas",
+      "has_synced": false,
+      "path": "select/16_I'm_Ready_for_Love_Martha_Reeves_and_The_Vandellas.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'm Ready",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/17_I'm_Ready_Bryan_Adams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm Ready",
+      "artist": "Jaden",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_Ready_Jaden.txt"
+    }
+  ]
+}
